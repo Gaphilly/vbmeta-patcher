@@ -33,6 +33,12 @@ jobs:
             omc: "OXM"
             imei: "355088506557251"
             codename: "a35x"
+            
+          - model: "SM-A505G"
+            csc: "CHO"
+            imei: "357285110000000"
+            codename: "a505f"
+
 
     steps:
       - name: Checkout repo
